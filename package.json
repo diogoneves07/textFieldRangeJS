@@ -1,0 +1,27 @@
+{
+  "name": "textfieldrangejs",
+  "version": "1.0.0",
+  "description": "Simple, useful, light and complete, aimed at controlling and obtaining data from HTML elements of text entry.",
+  "umd:main": "lib/textFieldRange.min.js",
+  "main": "lib/textFieldRange.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoneves07/textFieldRangeJS.git"
+  },
+  "keywords": [
+    "textFieldRange",
+    "javascript",
+    "range",
+    "field",
+    "caret"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diogoneves07/textFieldRangeJS/issues"
+  },
+  "homepage": "https://github.com/diogoneves07/textFieldRangeJS#readme"
+}
