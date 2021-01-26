@@ -1,0 +1,46 @@
+
+
+
+
+.textFieldRange-tutorial {
+    float: left;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.textFieldRange-tutorial div{
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.textFieldRange-tutorial textarea {
+    height: 200px;
+    width: 90%;
+    float: left;
+    margin: 10px 0;
+    padding: 2.5%;
+    margin: 0 2.5%;
+    border: 1px solid;
+    line-height: 30px;
+}
+.textFieldRange-tutorial button {
+    padding: 5px 10px;
+    height: 30px;
+    cursor: pointer;
+    line-height: 15px;
+    margin: 15px;
+    border-style: solid;
+    border-width: 1px 2px 2px 1px;    
+
+}
+.textFieldRange-tutorial input {
+    padding: 5px 10px;
+    height: 30px;
+    border: 1px solid transparent;
+}
+.textFieldRange-tutorial textarea,
+.textFieldRange-tutorial input {
+    font-size: 18px;
+}
+
