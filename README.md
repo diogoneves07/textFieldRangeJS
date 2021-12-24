@@ -1,3 +1,5 @@
+<strong>DEPRECATED.</strong>
+
 # textFieldRangeJS
 
 <blockquote>
